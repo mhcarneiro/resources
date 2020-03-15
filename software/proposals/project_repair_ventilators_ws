@@ -1,0 +1,67 @@
+
+# PLEASE COPY THE DOCUMENT AND START YOUR PROPOSAL ON YOUR COPY 
+| | |
+|-|-|
+| Proposal Stage | Draft     |
+| Tags           | repair,ventilator     |
+| Created Date 14-03-2020   |      |
+| Lead           | Miguel Carneiro (author)     |
+| Slack Channel  | #insourcing , #project-ventilator_repair     |
+
+## 📃 Idea in brief: Question to be resolved and why
+
+### 💥 Problem
+Lack of ventilators. Every extra ventilator can save lives.
+Find ventilators to repair, people to repair them. Bring them together.
+
+### 👨‍🔬Hypothesis
+There may be a great deal of discarded ventilators because they are broken and perceived as beyond repair. However, I've seen a great deal of people in our slack community with the necessary skills to repair a ventilator and the ability to model and print a missing part.
+
+### 🤔 Assumptions
+- We could get institutional reach for clinics, hospitals.
+- Hospitals / Clinics would be willing to provide their broken ventilators with or without expectation of return, either ot be repaired of for parts to fix another ventilator.
+- We are able to get Service Manuals for broken ventilators
+- 
+
+## 💻Implementation Suggestion
+
+### V1
+Build a website (i.e. http://repairventilators.com/ ) with a simple premisse:
+- Find people with a ventilator that needs repair, allow them to send pics, post their location.
+- Find people able to repair a ventilator
+- Find people willing to transport the ventilator to the workshop of someone able to repair it, or from the workshop to a hospital.
+- Find hospitals that would be willing to receive the repaired ventilator.
+
+### What it is
+- A way for hospitals/clinics to let the world known they have a ventilator out of comission (for repair) 
+- A way to find the right people to diagnose and repair a ventilator that is out of comission
+- A way to find people with vans/trucks, willing to transport fixed/broken ventilators.
+- (Maybe) An aggregator for service manuals that may assist in repairing.
+
+### What it is not
+- An acquisition platform for ventilators
+- 
+
+### Design
+(Screenshot/drawing/link)
+
+### Data/Experiments
+
+
+V2 (..repeat the process)
+
+## 💪 Impact of Potential Solution
+- Every new ventilator will potentially save lives.
+
+## 🙌 Criteria for Success
+- Reach of communication (to be feasible, logistics need to be local, within the same city)
+
+## 😅 Known Issues
+- Deciding where a repaired ventilator goes to.
+
+## ✅ "I've read this" section
+Add in the table below the people you definitely want their eyes on this proposal. Sometimes there are no comments to be made but it's good to know people have read the proposal
+
+| Name | Status |
+|-|-|
+|  |  Read/Not Read    |
